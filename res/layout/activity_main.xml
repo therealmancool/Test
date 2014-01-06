@@ -54,4 +54,12 @@
         android:layout_marginTop="34dp"
         android:text="@string/boutonException" />
 
+    <Button
+        android:id="@+id/ButtonInitBDD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/TextViewHello"
+        android:layout_below="@+id/ButtonException"
+        android:text="@string/boutonInitBDD" />
+
 </RelativeLayout>

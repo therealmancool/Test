@@ -7,5 +7,6 @@
     <string name="prenomHint">Tapez votre prénom</string>
     <string name="boutonEnvoyer">Envoyer</string>
     <string name="boutonException">Exception</string>
+    <string name="boutonInitBDD">Init BDD</string>
 
 </resources>
