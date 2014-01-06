@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="prenom">Entrez votre prénom:</string>
+    <string name="prenomHint">Tapez votre prénom</string>
+    <string name="boutonEnvoyer">Envoyer</string>
+    <string name="boutonException">Exception</string>
+
+</resources>
