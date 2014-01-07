@@ -136,7 +136,7 @@ public class MainActivity extends Activity {
 	    	livreBdd.removeLivreWithID(livreFromBdd.getId());
         }
  
-        //On essait d'extraire de nouveau le livre de la BDD toujours grâce à son nouveau titre
+        //On essaie d'extraire de nouveau le livre de la BDD toujours grâce à son nouveau titre
         livreFromBdd = livreBdd.getLivreWithTitre("J'ai modifié le titre du livre");
         //Si aucun livre n'est retourné
         if(livreFromBdd == null){
